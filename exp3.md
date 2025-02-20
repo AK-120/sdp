@@ -1,6 +1,5 @@
 ### mainactvity.java
 ``` java
-package com.example.exp3;
 
 import android.app.AlertDialog;
 import android.os.Bundle;
